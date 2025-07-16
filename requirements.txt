@@ -1,0 +1,4 @@
+Flask==2.3.3
+google-generativeai==0.7.2  # Supports Gemini 1.5 Flash and 1.5 Pro
+python-dotenv==1.0.0
+
